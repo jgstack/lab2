@@ -1,5 +1,5 @@
 # lab2 
-//declare variables
+            //declare variables
             int feetInMile = 5280;
             double conversionFactor = 0.413;
 
